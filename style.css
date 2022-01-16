@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-  color: rgb(179, 131, 226);
+  color: #2480C6;
   font-size: 40px;
   text-align: center;
   opacity: 0.4;
@@ -66,7 +66,7 @@ form {
 }
 
 small {
-  color: #b5b5b5;
+  color: #C0C0C0;
   margin-top: 3rem;
   text-align: center;
 }
